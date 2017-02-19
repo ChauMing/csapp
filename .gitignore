@@ -31,3 +31,7 @@
 # Debug files
 *.dSYM/
 *.su
+
+csapp-answer/*
+*.sublime-project
+csapp.sublime-workspace
