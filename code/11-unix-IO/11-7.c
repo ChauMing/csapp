@@ -1,4 +1,4 @@
-#include "../../common/csapp.h"
+#include <csapp.c>
 
 int main() {
   int n;
